@@ -1,9 +1,16 @@
 # SCADA-LAB-POC
-try me
 LEGACY SCADA WEB LAB
 MITRE ATT&CK Technical Service Assessment
 2016-Era Web Practices · Industrial Dashboard Simulation
 MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation. This independent lab is not a MITRE-endorsed project.
+
+# THIS WAS A POC THAT IVE ACTUALLY PERFORMED 
+
+
+
+https://github.com/user-attachments/assets/59a0c44c-9cc2-46c9-be16-80d188e408ca
+
+
 
 
 Overview
